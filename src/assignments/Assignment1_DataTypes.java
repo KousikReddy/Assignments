@@ -63,7 +63,7 @@ public class Assignment1_DataTypes {
 		
 	//11.Number of followers on a social media platform: 1,000,000
 		
-		int followers = 100000;
+		String followers = "1,00,000";
 		System.out.println("Number of followers on a social media platform: "+followers);
 		
 	//12.Rating of a movie: 7.5
