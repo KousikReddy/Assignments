@@ -76,8 +76,8 @@ public class Assignment2_Arraysv2 {
 		memo[4][1][4] = "Pass(73)";
 		memo[4][1][5] = "Pass(90)";
 		
-		System.out.println("Semister-2 subject 4 and subject 5 names: "+memo[1][0][3]+", "+memo[1][0][4]);
-		System.out.println("Status/Marks of Semister-4 subject 3 and subject 6: "+memo[3][1][2]+", "+memo[3][1][5]);
+		System.out.println("Semister-2 subject 4 and subject 5 names: "+memo[1][0][3]+", "+memo[1][0][4]); //Basic Electronics & Engineering Physics
+		System.out.println("Status/Marks of Semister-4 subject 3 and subject 6: "+memo[3][1][2]+", "+memo[3][1][5]); //Fail(19) & Pass(87)
 
 	}
 

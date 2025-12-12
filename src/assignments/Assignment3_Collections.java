@@ -155,7 +155,7 @@ public class Assignment3_Collections {
 		totalData.add(productDetails);
 		
 		
-		System.out.println("Data from Product details of supplier name:  "+totalData.get(2).get(1).get("Supplier"));
+		System.out.println("Data from Product details of supplier name:  "+totalData.get(2).get(1).get("Supplier")); //Office Depot
 	}
 
 }
